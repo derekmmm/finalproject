@@ -1,0 +1,50 @@
+.commonheader{
+    text-align: center;
+    color: darkgreen;
+    font-family: fantasy;
+    display:inline-block;
+    letter-spacing: 0.0625em;
+    padding: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: darkgreen;
+    font-family: fantasy;
+}
+.back{
+background-color: rgb(200, 200, 200);
+border: 5px solid rgb(9, 25, 14);
+padding: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+.figure{
+text-align: center;
+text-decoration: solid;
+size: 20px;
+border:thick rgb(6, 4, 4) solid;
+margin: 0.5em;  
+padding: 0.5em;
+}
+.img{
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 50%
+}
+.footer{
+    display:inline-block;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tablink{
+    text-align:center;
+    color: rgb(39, 40, 113);
+    text-decoration: underline;
+}
